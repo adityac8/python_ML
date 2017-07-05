@@ -20,3 +20,10 @@ Setting up floyd
 
 x_data = np.load('/nfiles/fileone.npy')
 y_data = np.load('/nfiles/filetwo.npy')
+
+DEBUGGING NOTES: 
+
+PROBLEM: If you are using Anaconda prompt and you come across the following error after running the command: "pip install -U floyd-cli":
+scandir could not be installed
+
+SOLUTION: conda install -c conda-forge scandir=1.5
