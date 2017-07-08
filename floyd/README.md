@@ -1,6 +1,6 @@
 # python_ML
 Python Machine Learning
-# Python Machine Learning Setting up floyd
+## Python Machine Learning Setting up floyd
 
 Setting up floyd for using on Windows
 
